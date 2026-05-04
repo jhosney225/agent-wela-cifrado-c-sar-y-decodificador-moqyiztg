@@ -1,0 +1,6 @@
+{
+  "name": "agent-wela-cifrado-c-sar-y-decodificador-moqyiztg",
+  "version": "1.0.0",
+  "description": "Proyecto de Wela [Gen4]: cifrado César y decodificador",
+  "main": "index.js"
+}
